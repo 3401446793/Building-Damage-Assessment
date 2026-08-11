@@ -1,0 +1,7 @@
+{
+  "ai_env_python": "D:/Miniconda3_py310/envs/gis_esri/python.exe",
+  "arcgis_python": "D:/ArcGIS/Pro/bin/Python/envs/arcgispro-py3/python.exe",
+  "template_aprx_path": "./template/disaster/disaster.aprx",
+  "output_folder": "./output",
+  "gdb_name": "result.gdb"
+}

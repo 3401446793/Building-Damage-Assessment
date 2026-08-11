@@ -1,0 +1,57 @@
+{
+  "statistics": {
+    "total_buildings": 122,
+    "damaged_buildings": 1,
+    "damage_levels": {
+      "2": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "3": {
+        "count": 1,
+        "percentage": 0.819672131147541
+      },
+      "4": {
+        "count": 0,
+        "percentage": 0.0
+      }
+    }
+  },
+  "area_statistics": {
+    "2": {
+      "count": 0,
+      "total_area": 0,
+      "min_area": 0,
+      "max_area": 0,
+      "avg_area": 0
+    },
+    "3": {
+      "count": 1,
+      "total_area": 8945.004813304457,
+      "min_area": 8945.004813304457,
+      "max_area": 8945.004813304457,
+      "avg_area": 8945.004813304457
+    },
+    "4": {
+      "count": 0,
+      "total_area": 0,
+      "min_area": 0,
+      "max_area": 0,
+      "avg_area": 0
+    }
+  },
+  "legend": {
+    "2": {
+      "label": "轻微损毁",
+      "color": "#ffcc00"
+    },
+    "3": {
+      "label": "中度损毁",
+      "color": "#ff8800"
+    },
+    "4": {
+      "label": "重度损毁",
+      "color": "#cc0000"
+    }
+  }
+}
